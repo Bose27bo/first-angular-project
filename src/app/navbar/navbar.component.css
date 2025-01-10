@@ -1,0 +1,13 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 999;
+}
+.navbar-toggler {
+    background-color: #DC3545;
+}
+.navbar-toggler:focus {
+    box-shadow: none;
+}

@@ -1,0 +1,9 @@
+section{
+    margin-top: 50px;
+    padding: 30px;
+}
+.line-star{
+    width: 100px;
+    height: 4px;
+    background-color: #212529;
+}

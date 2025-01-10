@@ -1,0 +1,26 @@
+.layer{
+    opacity: 0;
+    cursor: pointer;
+    background-color:#dc3546d4 ;
+    transition: 1s opacity;
+}
+.pic:hover .layer{
+    opacity: 1;    
+}
+
+/* .modal-backdrop {
+    background-color: #0ef490;
+} */
+
+#lightBox{
+    position: fixed;
+    inset: 0;
+    background-color: rgba(20, 33, 133, 0.598);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vh-90{
+    height: 70vh;
+}
